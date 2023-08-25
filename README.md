@@ -1,1 +1,1 @@
-My first readme
+Just trying out a new project
